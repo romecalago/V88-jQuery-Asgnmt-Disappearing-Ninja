@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    outline: 1px solid red;
+}
+.container {
+    width: 970px;
+    margin: 10px auto;
+}
+div {
+    width: 80%;
+    margin: 0 auto;
+}
+img {
+    width: 150px;
+    height: 180px;
+    border: 2px solid black;
+    margin: 15px;
+}
